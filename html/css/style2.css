@@ -1,0 +1,156 @@
+body, td, p, input, button, textarea, select, .c1 { font-family:Tahoma,±¼¸²; font-size:9pt; color:#000000; }
+
+img {border:0px;}
+
+form { margin:0px; }
+
+/* img {border:0px;} */
+H1, div { text-align:left }
+
+a:link, a:visited, a:active { text-decoration:none; color:#222222; }
+a:hover { text-decoration:none; color:#454545;}
+
+a.menu:link, a.menu:visited, a.menu:active { text-decoration:none; color:#454545; }
+a.menu:hover { text-decoration:none; }
+
+.member {font-weight:bold;color:#888888;}
+.guest  {font-weight:normal;color:#888888;}
+
+.lh { line-height: 150%; }
+.jt { text-align:justify; }
+
+.li { font-weight:bold; font-size:18px; vertical-align:-4px; color:#66AEAD; }
+
+.ul { list-style-type:square; color:#66AEAD; }
+
+.icon li {list-style:none; padding:0px 0 0px 20px; background: url(images/icon.gif) no-repeat 0 55%;}
+
+.ct { font-family: Verdana, ±¼¸²; color:#222222; } 
+
+.ed { border:1px solid #CCCCCC; } 
+.tx { border:1px solid #CCCCCC; } 
+
+.small { font-size:8pt; font-family:µ¸¿ò; }
+.cloudy, a.cloudy {color:#888888;} /* Èå¸² */
+
+input.ed { height:20px; border:1px solid #9A9A9A; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; padding:3px 2px 0 2px; }
+input.ed_password { height:20px; border:1px solid #9A9A9A; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; padding:3px 2px 0 2px; font:10px Tahoma; }
+textarea.tx { border:1px solid #9A9A9A; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; padding:2px; }
+
+
+img { border : 0px}
+
+.copy_menu {font-family: "¸¼Àº°íµñ", Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #444444;}
+.copy_menu a:link, a:visited, a:active {font-family: "¸¼Àº°íµñ", Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #444444;}
+.copy_menu a:hover {font-family: "¸¼Àº°íµñ", Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #f2711b;}
+
+
+.title_txt {color:333333;font-size:18px;font-weight:bold;font-family:¸¼Àº °íµñ;}
+
+/* ÆÐµù°ª */
+.p1{padding-left:7;}
+.p2{padding:7 0;}
+.p3{padding:4 0;}
+.m1{margin:0 5 0 15;}
+
+/* º¸´õ-Ç¥Å×µÎ¸® */
+.b_copy { border-bottom: solid 5px #e2e2e2;}
+.dotline { border-bottom: dotted 1px #999999;}
+
+
+#table1 { border-top: 2px solid #EC151B}
+#table1 th { font-size:9pt; text-align:left; padding:5 0 5 15; border-bottom: 1px solid #C3C3C3; background-color:#F7F7F7}
+#table1 td { border-bottom: 1px solid #C3C3C3; padding:5 0 5 15;}
+#table1 .clear { border: none; padding:0px }
+
+#table2 { border-top: 1px solid #EBEBEB; border-bottom: 1px solid #EBEBEB; margin: 10px}
+#table2 th { font-weight:normal;font-size:9pt; text-align:left; padding:5 0 5 10; border-bottom: 1px dashed #EBEBEB; background-color:#FAFAFA;}
+#table2 td { border-bottom: 1px dashed #EBEBEB; padding:2 0 2 10;}
+#table2 .clear { border: none; padding:0px }
+
+#table3 { border-top: 2px solid #EC151B;}
+#table3 th { font-size:9pt; text-align:center; border-bottom: 1px solid #C3C3C3; background-color:#F7F7F7; height:35px}
+#table3 td { border-bottom: 1px solid #C3C3C3; height:32px; text-align:center}
+#table3 .clear { border: none; padding:0px }
+
+#table11 { border-top: 2px solid #EC151B; width:750}
+#table11 th { font-size:9pt; text-align:center; border-bottom: 1px solid #C3C3C3; background-color:#F7F7F7; height:35px}
+#table11 td { border-bottom: 1px solid #C3C3C3; height:32px;}
+#table11 .clear { border: none; padding:0px }
+
+
+.font1 {color:#333333; font-size:12px; font-weight:bold;}
+
+/* ±âº» Å×ÀÌºí */
+#tb { border-top:2px solid #797979; border-bottom:2px solid #797979;}
+#tb caption { text-align:left; font-size:14px; font-family:¸¼Àº °íµñ, dotum; font-weight:bold; color:#2D2D2D}
+#tb th { font-size: 12px; text-align:left; color: #535353; padding-left:5px}
+#tb td { border-bottom : 1px dotted #A9A7A7; padding:6px 5px 6px 5px; color:#575757; line-height: 160%;  }
+#tb .border_none { border: 0}
+
+
+#tb1 {}
+#tb1 th { font-size: 12px; font-weight:bold; text-align:left; color: #49463F; padding-left:8px}
+#tb1 td { border:none; padding:2px 5px 2px 5px;border-right : 1px dashed #A9A7A7; color:#757575; line-height: 160%;  }
+#tb1 .border_none { border: 0}
+
+#tb2 { border-top:1px solid; border-left:1px solid; }
+#tb2 caption { text-align:left; font-size:14px; font-family:¸¼Àº °íµñ, dotum; font-weight:bold; color:#004c84 }
+#tb2 th { font-size:12px; color: #004679; border-right:1px solid #DBDBDB; border-bottom:1px solid #DBDBDB; padding:10 0; text-align:center; background-color:#F9F9F9 }
+#tb2 td { font-size:12px; color: #5A5A5A; padding: 5px 5px 5px 5px; border-right:1px solid #DBDBDB; border-bottom:1px solid #DBDBDB;  padding:10 0; line-height:160%; text-align:center }
+#tb2 .border_none { border: 0}
+
+
+#tb3 { border: 0}
+#tb3 caption { text-align:left; font-size:14px; font-family:¸¼Àº °íµñ, dotum; font-weight:bold; color:#2D2D2D}
+#tb3 th { font-size: 12px; text-align:left; color: #535353; padding-left:5px}
+#tb3 td { border:0; margin:0; padding:0; line-height: 100%;  }
+#tb3 .border_none { border: 0}
+
+
+/* ±âº»¸®½ºÆ® */
+#list_1 { padding:0; margin:0;}
+#list_1 li { list-style: none; font-weight:bold; color:#004679; padding: 10 0 6 0; letter-spacing:-0.1em}
+#list_1 li ul{ padding-left:20px; margin:0;}
+#list_1 li ul li{ font-weight:normal; color:#4D4A4A; padding: 10 0 0 0}
+
+/* Basic */
+#Logo { font-size:20px; font-family:¸¼Àº °íµñ }
+
+
+.btn { padding:5 4 3 4; font-family:¸¼Àº °íµñ}
+
+/* BOX */
+.box { position:relative;background-color:white;border:1px solid #898989; width:100%; text-align:center}
+
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+a.boldbuttons{
+background: transparent url('./images/roundedge-gray-left.gif') no-repeat top left;
+display: block;
+float: left;
+font: bold 13px Arial; /* Change 13px as desired */
+line-height: 22px; /* This value + 4px + 4px (top and bottom padding of SPAN) must equal height of button background (default is 30px) */
+height: 30px; /* Height of button background height */
+padding-left: 8px; /* Width of left menu image */
+text-decoration: none;
+
+}
+
+a:link.boldbuttons, a:visited.boldbuttons, a:hover.boldbuttons, a:active.boldbuttons{
+color: white; /*button text color*/
+}
+
+a.boldbuttons span{
+background: transparent url('./images/roundedge-gray-right.gif') no-repeat top right;
+display: block;
+padding: 4px 10px 4px 2px; /*Set 10px to be equal or greater than'padding-left' value above*/
+}
+
+a:hover.boldbuttons{ /* Hover state CSS */
+text-decoration: underline;
+}
+
+}
